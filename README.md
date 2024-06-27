@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Rafał Gondek and I'm a junior front end developer.</p>
+<p align="left">My name is Rafał Gondek and I'm a junior front-end developer.</p>
 
 ###
 
