@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Next and TypeScript<br>🎯 Goals: Find my first job<br>🎲 Fun fact: I am passionate about astronomy</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Next and TypeScript<br>🎲 Fun fact: I am passionate about astronomy</p>
 
 ###
 
